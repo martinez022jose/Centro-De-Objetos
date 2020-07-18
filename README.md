@@ -10,7 +10,8 @@ Para poder correr el programa se requiere previamente:
 * OpenCV
 
 ## Ejecutando las pruebas :memo:
-![alt text](https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaDeFiguras.PNG)
+![alt text](image:: https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaDeFiguras.PNG :height: 100px :width: 200 px :scale: 50 %)
+
 
 ## Autor/Autores :pushpin:
 * **Jose Martinez Gutierrez**
