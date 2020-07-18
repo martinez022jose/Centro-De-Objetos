@@ -10,7 +10,8 @@ Para poder correr el programa se requiere previamente:
 * OpenCV
 
 ## Ejecutando las pruebas :memo:
-<img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaDeFiguras.PNG"/>
+>Generamos centro de todas las figuras: 
+<img height="500px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaDeFiguras.PNG"/>
 
 
 ## Autor/Autores :pushpin:
