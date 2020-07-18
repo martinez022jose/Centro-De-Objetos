@@ -1,8 +1,8 @@
 import cv2
 import numpy as np
 
-def generarCentros():
-    contornos,_ = cv2.findContours(maskConjunto,cv2.RETR_TREE, cv2.CHAIN_APPROX_NONE)
+def generarCentro(mascara):
+    contornos,_ = cv2.findContours(mascara,cv2.RETR_TREE, cv2.CHAIN_APPROX_NONE)
     for contorno in contornos:
         area = cv2.contourArea(contorno)
         font = cv2.FONT_HERSHEY_SIMPLEX
@@ -59,7 +59,10 @@ maskConjunto = cv2.add(maskUnion2,maskAmarrillo)
 
 #Generamos centros y bordes
 
-generarCentros()
+generarCentro(maskAzul)
+generarCentro(maskAmarrillo)
+generarCentro(maskRojo)
+generarCentro(maskVerde)
 generarContorno(maskAzul,(255,0,0))
 generarContorno(maskRojo,(0,0,255))
 generarContorno(maskVerde,(0,255,0))
