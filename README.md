@@ -1,7 +1,7 @@
 # Centro De Objetos :collision:
 
 ## Objetivo :dart:
-Mediante el uso del leguaje de programacion Python y bibliotecas externas, como son OpenCv y NumPy. Se busca procesar una imagen y buscar las coordenadas de los centros de figuras geometricas y sus contornos
+Mediante el uso del lenguaje de programacion Python y bibliotecas externas, como son OpenCV y NumPy. Se busca procesar una imagen y buscar las coordenadas de los centros de figuras geometricas y sus contornos
 
 ## Instalación :wrench:
 Para poder correr el programa se requiere previamente:
