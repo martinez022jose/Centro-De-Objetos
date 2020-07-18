@@ -11,7 +11,7 @@ Para poder correr el programa se requiere previamente:
 
 ## Ejecutando las pruebas :memo:
 >Generamos centro de todas las figuras: 
-<img height="500px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaDeFiguras.PNG"/>
+<img height="300px" width="400px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaDeFiguras.PNG"/>
 
 
 ## Autor/Autores :pushpin:
