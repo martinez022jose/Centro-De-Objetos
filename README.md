@@ -10,13 +10,12 @@ Para poder correr el programa se requiere previamente:
 * OpenCV
 
 ## Ejecutando las pruebas :memo:
->Generamos centro de todas las figuras: 
-  <img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaDeFiguras.PNG"/>
->Generamos centro de figuras de forma particular:
-  <img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaDeFiguras.PNG"/>
-  <img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaDeFiguras.PNG"/>
-  <img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaDeFiguras.PNG"/>
-  <img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaDeFiguras.PNG"/>
+> Generamos centro de todas las figuras: 
+<img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaDeFiguras.PNG"/>
+> Generamos centro de figuras de forma particular:
+<img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaAmarillo.PNG"/><img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaVerde.PNG"/>
+<img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaAzul.PNG"/>
+<img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaRojo.PNG"/>
 
 ## Autor/Autores :pushpin:
 * **Jose Martinez Gutierrez**
