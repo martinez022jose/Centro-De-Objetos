@@ -10,15 +10,19 @@ Para poder correr el programa se requiere previamente:
 * OpenCV
 
 ## Ejecutando las pruebas :memo:
->Generamos centro de todas las figuras: 
+> Generamos centro de todas las figuras: 
 <img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaDeFiguras.PNG"/>
->Generamos centro de figuras color Amarillo:
+
+> Generamos centro de figuras color Amarillo:
 <img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaAmarillo.PNG"/>
->Generamos centro de figuras color Verde:
+
+> Generamos centro de figuras color Verde:
 <img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaVerde.PNG"/>
->Generamos centro de figuras color Azul:
+
+> Generamos centro de figuras color Azul:
 <img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaAzul.PNG"/>
->Generamos centro de figuras color Rojo:
+
+> Generamos centro de figuras color Rojo:
 <img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaRojo.PNG"/>
 
 ## Autor/Autores :pushpin:
