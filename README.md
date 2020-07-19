@@ -11,7 +11,7 @@ Para poder correr el programa se requiere previamente:
 
 ## Ejecutando las pruebas :memo:
 > Generamos centro y contorno de todas las figuras geometricas: 
-```
+```python
 generarCentro(maskAzul)
 generarContorno(maskAzul,(255,0,0))
 
@@ -29,7 +29,7 @@ generarContorno(maskVerde,(0,255,0))
 <img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaDeFiguras.PNG"/>
 
 > Generamos centro y contorno de figuras geometricas color Amarillo:
-```
+```python
 generarCentro(maskAmarrillo)
 generarContorno(maskAmarrillo,(0,255,255))
 ```
@@ -37,21 +37,21 @@ generarContorno(maskAmarrillo,(0,255,255))
 
 > Generamos centro y contorno de figuras geometricas color Verde:
 
-```
+```python
 generarCentro(maskVerde)
 generarContorno(maskVerde,(0,255,0))
 ```
 <img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaVerde.PNG"/>
 
 > Generamos centro y contorno de figuras  geometricas color Azul:
-```
+```python
 generarCentro(maskAzul)
 generarContorno(maskAzul,(255,0,0))
 ```
 <img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Centro-De-Objetos/blob/master/ScreenShotsReadMe/CoordenadaAzul.PNG"/>
 
 > Generamos centro y contorno de figuras geometricas color Rojo:
-```
+```python
 generarCentro(maskRojo)
 generarContorno(maskRojo,(0,0,255))
 ```
